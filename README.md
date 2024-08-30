@@ -13,23 +13,23 @@
 ### 一字
 
 <p align="center">
-  <img src=".png" alt="楷書A 一字" />
+  <img src="https://raw.github.com/Zahajki/shogi-piece-images/main/kaishoa/kaishoa_single.png" alt="楷書A 一字" />
 </p>
 
 #### ダウンロード
 
-* [PNG 4段組み]()
-* [SVG 4段組み]()
-* [PNG 1枚ずつ]()
+* [PNG 4段組み](https://raw.github.com/Zahajki/shogi-piece-images/main/kaishoa/kaishoa_single.png)
+* [SVG 4段組み](https://raw.github.com/Zahajki/shogi-piece-images/main/kaishoa/kaishoa_single.svg)
+* [PNG 1枚ずつ](https://raw.github.com/Zahajki/shogi-piece-images/main/kaishoa/kaishoa_single.zip)
 
 ### 二字
 
 <p align="center">
-  <img src=".png" alt="楷書A 二字" />
+  <img src="https://raw.github.com/Zahajki/shogi-piece-images/main/kaishoa/kaishoa_double.png" alt="楷書A 二字" />
 </p>
 
 #### ダウンロード
 
-* [PNG 4段組み]()
-* [SVG 4段組み]()
-* [PNG 1枚ずつ]()
+* [PNG 4段組み](https://raw.github.com/Zahajki/shogi-piece-images/main/kaishoa/kaishoa_double.png)
+* [SVG 4段組み](https://raw.github.com/Zahajki/shogi-piece-images/main/kaishoa/kaishoa_double.svg)
+* [PNG 1枚ずつ](https://raw.github.com/Zahajki/shogi-piece-images/main/kaishoa/kaishoa_double.zip)
